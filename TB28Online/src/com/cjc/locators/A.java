@@ -13,5 +13,8 @@ public class A {
 	{
 		System.out.println("m1");
 	}
+	public void m2()
+	{
+	}
 
 }
