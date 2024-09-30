@@ -21,5 +21,8 @@ public class A {
 	{
 		System.out.println("pooja");
 	}
-
+	public void kiran()
+	{
+		System.out.println("kiran");
+	}
 }
