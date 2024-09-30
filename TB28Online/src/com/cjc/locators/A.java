@@ -25,4 +25,8 @@ public class A {
 	{
 		System.out.println("kiran");
 	}
+	public void ki()
+	{
+		System.out.println("ki");
+	}
 }
