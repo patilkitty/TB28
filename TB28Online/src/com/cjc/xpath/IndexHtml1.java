@@ -13,5 +13,6 @@ public class IndexHtml1 {
 		driver.findElement(By.xpath("//input[@name='uname']")).sendKeys("CJC");
 		driver.findElement(By.xpath("//input[@id='pid']")).sendKeys("cjc@123");
 		driver.findElement(By.xpath("//button[@class='login']")).click();
+		//hi hello
 	}
 }
