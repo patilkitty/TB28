@@ -26,4 +26,8 @@ public class A {
 	{
 		System.out.println("ki");
 	}
+	static public void asawari()
+	{
+		System.out.println("Asawari");
+	}
 }
