@@ -26,4 +26,8 @@ public class A {
 	{
 		System.out.println("ki");
 	}
+	public void muskan()
+	{
+		System.out.println("Edited by muskan");
+	}
 }
